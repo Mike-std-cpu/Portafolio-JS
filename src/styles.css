@@ -10,7 +10,7 @@ body {
   padding: 0;
   height: 100%;
   width: 100%;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat", "Helvetica";
 }
 
 div#main {
@@ -30,7 +30,7 @@ section.dark {
 
 section.light {
   color: black;
-  background: rgba(255, 255, 255, 0.35);
+  background: rgba(255, 255, 255, 0);
   padding: 8rem 0;
 }
 
@@ -48,8 +48,8 @@ section img.background {
 
 h1 {
   font-weight: 300;
-  font-family: "Cormorant Garamond", serif;
-  font-size: 7rem;
+  font-family: "Montserrat", serif;
+  font-size: 5rem;
   margin: 0;
 }
 
